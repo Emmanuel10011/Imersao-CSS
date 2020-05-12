@@ -30,3 +30,7 @@ body {
     color: whitesmoke;
     font-style: italic;
   }
+  .site-text {
+   text-align: center;
+   color: whitesmoke;
+  }
